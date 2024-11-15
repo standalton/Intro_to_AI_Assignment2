@@ -1,4 +1,4 @@
-Assignment 2 for Intro to AI. 
+Survey App using Naive Bayes Theorem.
 
 SurveyApp.java is the MAIN where the code runs. All other classes are supportive to the Main.
 
